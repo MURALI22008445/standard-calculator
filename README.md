@@ -138,6 +138,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![img](calc.png)
 
 ## Result:
 The code runs successfully.
